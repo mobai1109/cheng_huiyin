@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1555845731 source:c:\users\chy\desktop\æÿ’Û\12.12\basepluscommissionemployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1555845731 c:\users\chy\desktop\æÿ’Û\12.12\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1555845731 c:\users\chy\desktop\æÿ’Û\12.12\commissionemployee.h
+	"Employee.h"
+
+1555845731 c:\users\chy\desktop\æÿ’Û\12.12\employee.h
+	<string>
+	"Date.h"
+
+1555845731 c:\users\chy\desktop\æÿ’Û\12.12\date.h
+	<iostream>
+
+1555845731 source:c:\users\chy\desktop\æÿ’Û\12.12\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1555845731 source:c:\users\chy\desktop\æÿ’Û\12.12\date.cpp
+	<iostream>
+	"Date.h"
+
+1555845731 source:c:\users\chy\desktop\æÿ’Û\12.12\hourlyemployee.cpp
+	<iostream>
+	"HourlyEmployee.h"
+
+1555845731 c:\users\chy\desktop\æÿ’Û\12.12\hourlyemployee.h
+	"Employee.h"
+
+1555845731 source:c:\users\chy\desktop\æÿ’Û\12.12\salariedemployee.cpp
+	<iostream>
+	"SalariedEmployee.h"
+
+1555845698 c:\users\chy\desktop\æÿ’Û\12.12\salariedemployee.h
+	"Employee.h"
+
+1555845810 source:c:\users\chy\desktop\æÿ’Û\12.12\employee.cpp
+	<iostream>
+	"Employee.h"
+
